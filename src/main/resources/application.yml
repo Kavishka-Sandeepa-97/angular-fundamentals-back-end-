@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/angular_ui
+    username: root
+    password: Kavi@123
+
+  jpa:
+    hibernate:
+      ddl-auto: update
